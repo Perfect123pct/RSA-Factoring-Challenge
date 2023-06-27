@@ -1,7 +1,15 @@
 #!/usr/bin/python3
-
-
 import sys
+
+"""
+File_name: factors
+Created: 27th of June, 2023
+Auth: Adekola Stephen Oyewole
+Size: undefined
+Project: RSA-Factoring-Challenge
+Status: submitted.
+"""
+
 
 def factorization():
 
